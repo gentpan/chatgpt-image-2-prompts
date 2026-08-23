@@ -1,0 +1,41 @@
+---
+id: zl-042
+title_zh: Chinese Tea Drink Product Launch Poster
+title_en: 
+category: 海报
+tags: []
+model: gpt-image-2
+mode: t2i
+source_repo: ZeroLu/awesome-gpt-image
+source_url: https://github.com/ZeroLu/awesome-gpt-image
+source_license: MIT
+---
+
+Design a 3:4 vertical poster for a new Chinese trendy tea launch. Use a New Chinese visual style that feels light-luxury and restrained. The palette should be dark green, off-white, and gold, with rice-paper texture, elegant negative space, landscape accents, and modern layout design.
+
+Main subject:
+a visually appealing cold-brew tea with tea leaves, citrus, ice cubes, and touches of gold foil.
+
+The poster must accurately display the following exact Chinese copy:
+"山川茶事"
+"山柚观音"
+"冷泡系列"
+"新品上市"
+"一口清醒，半城入夏"
+"限定尝鲜价"
+"中杯 16 元"
+"大杯 19 元"
+"门店活动"
+"第二杯半价"
+"加 3 元升级轻乳版"
+"每日前 100 名赠限定杯套"
+"推荐风味"
+"观音茶底 / 西柚果香 / 轻乳云顶 / 冰感回甘"
+"活动时间 4月20日 至 5月10日"
+"扫码点单"
+"SHANCHUAN TEA"
+
+Fine print:
+"图片仅供参考，请以门店实际售卖为准"
+
+Maintain a clear promotional hierarchy while keeping the overall feeling sophisticated rather than cheap or overly e-commerce-like. Pay special attention to small text, numbers, prices, info modules, and Chinese typography aesthetics.
