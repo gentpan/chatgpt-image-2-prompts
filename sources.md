@@ -4,6 +4,8 @@
 
 ---
 
+## GPT Image 2 数据源
+
 ## 1. YouMind-OpenLab/awesome-gpt-image-2
 
 - **仓库**: [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
@@ -64,6 +66,80 @@
 - **完整集合**: 约 15985 个提示词（CMS 驱动的在线画廊）
 - **在线访问**: [youmind.com](https://youmind.com)
 - **本仓库状态**: 仅导入 1 个样本，完整集合体量过大暂未全量导入
+
+---
+
+---
+
+## Nano Banana 数据源
+
+### 6. ImgEdify/awesome-nano-banana-pro-prompts
+
+- **仓库**: [ImgEdify/awesome-nano-banana-pro-prompts](https://github.com/ImgEdify/awesome-nano-banana-pro-prompts)
+- **描述**: 8990 个结构化提示词，来自上游 [data/prompts.json](https://raw.githubusercontent.com/ImgEdify/awesome-nano-banana-pro-prompts/main/data/prompts.json)
+- **许可**: MIT
+- **在本仓库的角色**: 
+  - 已导入全部 8990 个有效提示词至 `data/nano-banana/` 目录
+  - JSONL 格式（14.89 MB）+ 按分类拆分的 12 个 Markdown 文件
+  - 最大分类 portrait（4398 条），product（1132 条）
+  - **未写入 images 等二进制引用字段**
+
+---
+
+### 7. ZeroLu/awesome-nanobanana-pro
+
+- **仓库**: [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)
+- **描述**: 70 个精选案例，以 README 形式展示
+- **许可**: MIT
+- **在本仓库的角色**: 已导入全部 70 个提示词至 `data/nano-banana/zerolu-awesome-nanobanana-pro.md`
+
+---
+
+### 8. YouMind-OpenLab/awesome-nano-banana-pro-prompts
+
+- **仓库**: [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+- **描述**: CMS 驱动的在线画廊，约 10000+ 个案例，Git 仓库为预览版
+- **许可**: CC BY 4.0
+- **在本仓库的角色**: 
+  - 已导入 GitHub README 预览切片的 129 条提示词至 `data/nano-banana/youmind-nanobanana-preview.md`
+  - 完整集合约 10000+ 条，仅在 [youmind.com](https://youmind.com) 可见（CMS 驱动）
+
+---
+
+---
+
+## Grok Imagine 数据源
+
+### 9. that-cod/awesome-grok-imagine-prompts
+
+- **仓库**: [that-cod/awesome-grok-imagine-prompts](https://github.com/that-cod/awesome-grok-imagine-prompts)
+- **描述**: 200+ 个结构化提示词，涵盖 12 个分类
+- **许可**: MIT
+- **在本仓库的角色**: 
+  - 已导入 199 条 SFW 提示词至 `data/grok/that-cod-awesome-grok-imagine.md`
+  - **已排除 nsfw.md**，仅收录 SFW 内容
+
+---
+
+### 10. seaimagine/awesome-grok-imagine-1-5-prompts
+
+- **仓库**: [seaimagine/awesome-grok-imagine-1-5-prompts](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts)
+- **描述**: 40 个原创提示词，8 个分类
+- **许可**: MIT
+- **在本仓库的角色**: 已导入全部 40 个提示词至 `data/grok/seaimagine-grok-1-5.md`
+
+---
+
+### 11. YouMind-OpenLab/awesome-grok-imagine-prompts
+
+- **仓库**: [YouMind-OpenLab/awesome-grok-imagine-prompts](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)
+- **描述**: CMS 驱动的在线画廊，约 2573+ 个案例，Git 仓库为预览版
+- **许可**: CC BY 4.0
+- **在本仓库的角色**: 
+  - 已导入 GitHub README 预览切片的 3 条精选提示词至 `data/grok/youmind-grok-prompts-preview.md`
+  - 完整集合约 2573+ 条，仅在 [youmind.com/grok-imagine-prompts](https://youmind.com/grok-imagine-prompts) 可见（CMS 驱动）
+
+---
 
 ---
 

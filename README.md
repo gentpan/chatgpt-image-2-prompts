@@ -1,6 +1,6 @@
-# GPT Image 2 提示词收藏库
+# AI 图像生成提示词收藏库
 
-Yep 的 ChatGPT GPT Image 2 提示词个人收藏，为后续项目复用而整理。**包含完整提示词文本**，严格标注来源和原始许可。
+Yep 的 AI 图像生成提示词个人收藏，涵盖 **GPT Image 2**、**Nano Banana** 和 **Grok Imagine** 三个模型。为后续项目复用而整理，**包含完整提示词文本**，严格标注来源和原始许可。
 
 ## 仓库结构
 
@@ -40,16 +40,48 @@ Yep 的 ChatGPT GPT Image 2 提示词个人收藏，为后续项目复用而整�
 
 **总计**: 630+ 个精选提示词
 
+---
+
+## Nano Banana 语料
+
+位于 `data/nano-banana/`，收录三个来源的 Nano Banana Pro 提示词：
+
+| 来源 | 数量 | 许可 | 说明 |
+|------|------|------|------|
+| ImgEdify/awesome-nano-banana-pro-prompts | 8990 | MIT | 完整语料，JSONL + 按分类拆分的 MD |
+| ZeroLu/awesome-nanobanana-pro | 70 | MIT | 精选案例，完整提示词 |
+| YouMind-OpenLab/awesome-nano-banana-pro-prompts | 129 | CC BY 4.0 | GitHub 预览切片（完整集合 10000+ 条在 CMS） |
+
+**合计**: 9189 条
+
+---
+
+## Grok Imagine 语料
+
+位于 `data/grok/`，收录三个来源的 Grok Imagine 提示词（仅 SFW）：
+
+| 来源 | 数量 | 许可 | 说明 |
+|------|------|------|------|
+| that-cod/awesome-grok-imagine-prompts | 199 | MIT | 已排除 nsfw.md |
+| seaimagine/awesome-grok-imagine-1-5-prompts | 40 | MIT | 原创提示词 |
+| YouMind-OpenLab/awesome-grok-imagine-prompts | 3 | CC BY 4.0 | GitHub 预览切片（完整集合 2573+ 条在 CMS） |
+
+**合计**: 242 条
+
+---
+
 ## 数据来源
 
 本仓库从以下公开来源收集并整理提示词：
 
+### GPT Image 2
 - **freestylefly/awesome-gpt-image-2** (MIT) — 529 个案例
 - **ZeroLu/awesome-gpt-image** (MIT) — 72 个精选提示词
 - **Anil-matcha/Awesome-GPT-Image-2-API-Prompts** (CC BY 4.0) — 28 个 API 导向提示词（已去重）
 - **YouMind-OpenLab/awesome-gpt-image-2** (CC BY 4.0) — 1 个样本（完整集合约 15985 个，见 [youmind.com](https://youmind.com)）
 
-详细来源信息参见 [sources.md](sources.md)。
+### Nano Banana & Grok Imagine
+见上方表格。完整来源信息参见 [sources.md](sources.md)。
 
 ## 如何使用
 
