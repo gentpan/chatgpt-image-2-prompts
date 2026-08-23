@@ -1,0 +1,14 @@
+---
+id: zl-055
+title_zh: World Time Analog Clock Wall
+title_en: 
+category: 常用
+tags: []
+model: gpt-image-2
+mode: t2i
+source_repo: ZeroLu/awesome-gpt-image
+source_url: https://x.com/Angaisb_/status/2046666389734179018
+source_license: MIT
+---
+
+It's 10 AM in Los Angeles, 11 AM in Denver, 12 PM in Chicago, 1 PM in New York, 6 PM in London, and 2 AM in Tokyo. Render a wall with different analog clocks, each showing the correct time for its city, with the city label below each clock.

@@ -2,7 +2,7 @@
 
 ## 提示词文件规范
 
-每个提示词对应 `prompts/<分类>/` 下的一个 Markdown 文件，采用 YAML front matter 记录元信息。
+每个提示词对应 `prompts/<分类>/` 下的一个 Markdown 文件，采用 YAML front matter 记录元信息，**文件正文包含完整提示词内容**。
 
 ### 文件命名
 
