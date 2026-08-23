@@ -75,10 +75,16 @@ Yep 的 AI 图像生成提示词个人收藏，涵盖 **GPT Image 2**、**Nano B
 本仓库从以下公开来源收集并整理提示词：
 
 ### GPT Image 2
+
+**精选提示词**（位于 `prompts/` 目录）：
 - **freestylefly/awesome-gpt-image-2** (MIT) — 529 个案例
 - **ZeroLu/awesome-gpt-image** (MIT) — 72 个精选提示词
 - **Anil-matcha/Awesome-GPT-Image-2-API-Prompts** (CC BY 4.0) — 28 个 API 导向提示词（已去重）
-- **YouMind-OpenLab/awesome-gpt-image-2** (CC BY 4.0) — 1 个样本（完整集合约 15985 个，见 [youmind.com](https://youmind.com)）
+
+**完整语料**（位于 `data/gpt-image-2/`）：
+- **YouMind-OpenLab/gpt-image-2-prompts-search** (CC BY 4.0) — 15,949 条（JSONL 格式，35.16 MB）
+  - 11 个分类：Social Media Post, Product Marketing, Profile/Avatar, Comic/Storyboard 等
+  - 来源于 references/*.json（已删除媒体字段）
 
 ### Nano Banana & Grok Imagine
 见上方表格。完整来源信息参见 [sources.md](sources.md)。

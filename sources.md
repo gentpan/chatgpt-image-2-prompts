@@ -6,12 +6,16 @@
 
 ## GPT Image 2 数据源
 
-## 1. YouMind-OpenLab/awesome-gpt-image-2
+## 1. YouMind-OpenLab/gpt-image-2-prompts-search
 
-- **仓库**: [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-- **描述**: CMS 驱动的在线画廊，约 15985 个案例，Git 仓库为预览版
+- **仓库**: [YouMind-OpenLab/gpt-image-2-prompts-search](https://github.com/YouMind-OpenLab/gpt-image-2-prompts-search)
+- **描述**: 15,949 个结构化提示词，来自上游 references/*.json（11 个分类文件）
 - **许可**: CC BY 4.0
-- **在本仓库的角色**: 外部语料索引，不直接导入
+- **在本仓库的角色**: 
+  - 已导入全部 15,949 个唯一提示词至 `data/gpt-image-2/` 目录
+  - JSONL 格式（35.16 MB，仅文本字段）+ 分类索引 MD
+  - 原始 JSON 文件总大小 ~57 MB（包含媒体字段），已删除媒体字段
+  - 11 个分类：Social Media Post (4773), Product Marketing (2781), Profile/Avatar (2276) 等
 
 ---
 
@@ -56,16 +60,6 @@
   - 本仓库不导入其代码，仅参考其分类体系
 
 ---
-
----
-
-## 待导入来源
-
-### YouMind-OpenLab/awesome-gpt-image-2
-
-- **完整集合**: 约 15985 个提示词（CMS 驱动的在线画廊）
-- **在线访问**: [youmind.com](https://youmind.com)
-- **本仓库状态**: 仅导入 1 个样本，完整集合体量过大暂未全量导入
 
 ---
 
