@@ -142,3 +142,76 @@
 1. **浏览目录**: 按槽位浏览 `prompts/<分类>/` 查找所需提示词
 2. **查阅索引**: 参见 `data/freestylefly-cases-by-category.md` 快速查找 freestylefly 的 529 个案例
 3. **遵守许可**: 使用前务必查阅各文件 YAML front matter 中的 `source_license` 字段
+
+## 附加 GPT Image 2 数据源（高价值补充）
+
+### 12. Toolcentral-ai/awesome-gpt-image-2-prompts
+
+- **仓库**: [Toolcentral-ai/awesome-gpt-image-2-prompts](https://github.com/Toolcentral-ai/awesome-gpt-image-2-prompts)
+- **描述**: 7,902 个结构化提示词，来自 data/gpt-image-2-prompts.json（64 MB 原始文件）
+- **许可**: MIT
+- **在本仓库的角色**:
+  - 已导入 7,483 条唯一提示词至 `data/gpt-image-2/toolcentral-prompts.jsonl`（24.44 MB）
+  - 与 YouMind 去重后跳过 419 条
+  - 10 个分类：Portrait & Character (1835), Graphic & Poster (1557), Anime & Game (1379) 等
+
+---
+
+### 13. moosl/awsome-gpt-image-2-prompts
+
+- **仓库**: [moosl/awsome-gpt-image-2-prompts](https://github.com/moosl/awsome-gpt-image-2-prompts)
+- **描述**: 1,791 个 X/Twitter 收集的提示词，独立于 freestylefly
+- **许可**: MIT
+- **在本仓库的角色**:
+  - 已导入 1,675 条唯一提示词至 `data/gpt-image-2/moosl-prompts.jsonl`（2.85 MB）
+  - 去重后跳过 116 条
+  - 包含作者归属（@image2hub, @TechieBySA 等）
+
+---
+
+### 14. gptimage2prompts/gpt-image-2-prompts
+
+- **仓库**: [gptimage2prompts/gpt-image-2-prompts](https://github.com/gptimage2prompts/gpt-image-2-prompts)
+- **描述**: 874 个时尚专题中文提示词（Men's/Women's/Kids Fashion）
+- **许可**: MIT
+- **在本仓库的角色**:
+  - 已导入 800 条唯一提示词至 `data/gpt-image-2/fashion-gptimage2prompts.jsonl`（1.99 MB）
+  - 去重后跳过 74 条
+  - 3 个分类：Men's Fashion (517), Women's Fashion (176), Kids Fashion (107)
+
+---
+
+### 15. BigPengSays/awesome-gpt-image-2-prompts
+
+- **仓库**: [BigPengSays/awesome-gpt-image-2-prompts](https://github.com/BigPengSays/awesome-gpt-image-2-prompts)
+- **描述**: 550 个精选提示词，带质量评级和归属
+- **许可**: MIT
+- **在本仓库的角色**:
+  - 已导入 536 条唯一提示词至 `data/gpt-image-2/bigpeng-prompts.jsonl`（0.77 MB）
+  - 去重后跳过 12 条
+  - 全部为 A 级质量
+
+---
+
+---
+
+## 附加 Nano Banana 数据源
+
+### 16. Banana-Prompts/awesome-nano-banana-prompts
+
+- **仓库**: [Banana-Prompts/awesome-nano-banana-prompts](https://github.com/Banana-Prompts/awesome-nano-banana-prompts)
+- **描述**: 294 个精选 Nano Banana Pro 提示词，来自 bananaprompts.fun
+- **许可**: MIT
+- **在本仓库的角色**:
+  - 已导入 276 条唯一提示词至 `data/nano-banana/banana-prompts.jsonl`（0.29 MB）
+  - 与 ImgEdify 等去重后跳过 18 条
+  - 14 个分类：Portrait, Landscape, Architecture, Sci-Fi 等
+
+---
+
+## 使用建议
+
+1. **浏览目录**: 按槽位浏览 `prompts/<分类>/` 查找所需提示词
+2. **查阅索引**: 参见 `data/` 目录下的 README 和 JSONL 文件
+3. **批量检索**: 使用 `grep` 命令在 JSONL 文件中搜索关键词
+4. **遵守许可**: 使用前务必查阅各文件的 `source_license` 字段
