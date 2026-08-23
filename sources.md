@@ -16,10 +16,10 @@
 ## 2. freestylefly/awesome-gpt-image-2
 
 - **仓库**: [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-- **描述**: 529 个结构化案例（`data/cases.json`）+ 22 个模板
+- **描述**: 529 个结构化案例（上游 [data/cases.json](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/cases.json)）+ 22 个模板
 - **许可**: MIT
 - **在本仓库的角色**: 
-  - 已导入 `data/freestylefly-cases.csv` 和 `data/freestylefly-cases-by-category.md`
+  - 通过 CSV 索引：`data/freestylefly-cases.csv` 和 `data/freestylefly-cases-by-category.md`
   - 仅元信息索引（ID、分类、标题、标签），未包含完整提示词文本
   - 可根据此索引选择性精选至 `prompts/` 目录
 
