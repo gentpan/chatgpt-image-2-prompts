@@ -20,7 +20,7 @@ category: 分类槽位（常用|人像|产品|修复|海报|电商）
 tags:
   - 标签1
   - 标签2
-model: gpt-image-2 | nano-banana | grok-imagine
+model: gpt-image-2
 mode: t2i  # t2i（文生图）| i2i（图生图）| edit（编辑）
 source_repo: 来源仓库（如 freestylefly/awesome-gpt-image-2）
 source_url: 原始链接（完整 URL）
