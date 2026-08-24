@@ -4,7 +4,22 @@
 
 ---
 
-## 1. YouMind-OpenLab/awesome-gpt-image-2
+## 1. YouMind-OpenLab/gpt-image-2-prompts-search
+
+- **仓库**: [YouMind-OpenLab/gpt-image-2-prompts-search](https://github.com/YouMind-OpenLab/gpt-image-2-prompts-search)
+- **描述**: GPT Image 2 提示词搜索引擎的数据源，包含电商主图、产品营销等结构化提示词集合
+- **许可**: CC BY 4.0
+- **在本仓库的角色**: 
+  - 已导入 1,508 个电商相关提示词至 `prompts/电商/` 目录
+  - 数据来源：
+    - `references/ecommerce-main-image.json` — 452 个电商主图提示词
+    - `references/product-marketing.json` — 1,056 个产品营销提示词（已过滤电商相关）
+  - 完整数据集：`data/ecommerce/gpt-image-2.jsonl`
+  - 精选展示：30 个代表性提示词分布在 `prompts/电商/主图|包装|详情页|模特上身|场景种草|静物白底/`
+
+---
+
+## 2. YouMind-OpenLab/awesome-gpt-image-2
 
 - **仓库**: [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 - **描述**: CMS 驱动的在线画廊，约 15985 个案例，Git 仓库为预览版
@@ -13,7 +28,7 @@
 
 ---
 
-## 2. freestylefly/awesome-gpt-image-2
+## 3. freestylefly/awesome-gpt-image-2
 
 - **仓库**: [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - **描述**: 529 个结构化案例（上游 [data/cases.json](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/cases.json)）+ 22 个模板
@@ -25,7 +40,7 @@
 
 ---
 
-## 3. ZeroLu/awesome-gpt-image
+## 4. ZeroLu/awesome-gpt-image
 
 - **仓库**: [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
 - **描述**: 约 73 个精选案例，以 README 形式展示
@@ -34,7 +49,7 @@
 
 ---
 
-## 4. Anil-matcha/Awesome-GPT-Image-2-API-Prompts
+## 5. Anil-matcha/Awesome-GPT-Image-2-API-Prompts
 
 - **仓库**: [Anil-matcha/Awesome-GPT-Image-2-API-Prompts](https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts)
 - **描述**: 49 个面向 API 调用的提示词，与 ZeroLu 仓库有重叠
@@ -43,7 +58,7 @@
 
 ---
 
-## 5. kadevin/ilab-conjure
+## 6. kadevin/ilab-conjure
 
 - **仓库**: [kadevin/ilab-conjure](https://github.com/kadevin/ilab-conjure)
 - **描述**: GPT Image 2 工作台，定义六个功能槽位模板（常用/人像/产品/修复/海报/电商）
