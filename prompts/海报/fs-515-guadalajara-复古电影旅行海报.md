@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case515.jpg
 source_label: @MiMundoConIA
+organizer: gentpan
 ---
 
 @Crea una imagen {

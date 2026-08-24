@@ -9,6 +9,7 @@ mode: t2i
 source_repo: Anil-matcha/Awesome-GPT-Image-2-API-Prompts
 source_url: https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts
 source_license: CC-BY-4.0
+organizer: gentpan
 ---
 
 Get your API key at [muapi.ai](https://muapi.ai).

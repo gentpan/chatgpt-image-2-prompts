@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/adonis_singh/status/2046673729082560919
 source_license: MIT
+organizer: gentpan
 ---
 
 A massive pile of rice, and on one single grain of rice there is tiny text that reads "wOw"

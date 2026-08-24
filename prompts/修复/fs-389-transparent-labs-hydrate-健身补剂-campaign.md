@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case389.jpg
 source_label: @amynys
+organizer: gentpan
 ---
 
 Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate.

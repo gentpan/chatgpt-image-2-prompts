@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/marmaduke091/status/2046732155829604550
 source_license: MIT
+organizer: gentpan
 ---
 
 Speed is livestreaming Grand Theft Auto 6

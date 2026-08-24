@@ -9,6 +9,7 @@ mode: t2i
 source_repo: Anil-matcha/Awesome-GPT-Image-2-API-Prompts
 source_url: https://x.com/BubbleBrain
 source_license: CC-BY-4.0
+organizer: gentpan
 ---
 
 9:16 vertical, Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling, soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources

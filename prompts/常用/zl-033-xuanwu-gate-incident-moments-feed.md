@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/Tz_2022/status/2046523491940225366
 source_license: MIT
+organizer: gentpan
 ---
 
 玄武门之变的朋友圈

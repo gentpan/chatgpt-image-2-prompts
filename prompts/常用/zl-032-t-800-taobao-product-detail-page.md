@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://opennana.com/awesome-prompt-gallery/terminator-taobao-page
 source_license: MIT
+organizer: gentpan
 ---
 
 Generate image:

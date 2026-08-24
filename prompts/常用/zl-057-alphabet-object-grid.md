@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/umesh_ai/status/2046510988367945983
 source_license: MIT
+organizer: gentpan
 ---
 
 Create an image with a 10x10 grid of objects whose names all start with the letter A

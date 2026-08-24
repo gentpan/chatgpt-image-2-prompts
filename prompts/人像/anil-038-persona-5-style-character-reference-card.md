@@ -9,6 +9,7 @@ mode: t2i
 source_repo: Anil-matcha/Awesome-GPT-Image-2-API-Prompts
 source_url: https://x.com/iamrednightS
 source_license: CC-BY-4.0
+organizer: gentpan
 ---
 
 Based on this character and background, create a character reference card in the style of Persona 5 setting materials.

@@ -9,6 +9,7 @@ mode: t2i
 source_repo: YouMind-OpenLab/awesome-gpt-image-2
 source_url: https://github.com/YouMind-OpenLab/awesome-gpt-image-2
 source_license: CC BY 4.0
+organizer: gentpan
 ---
 
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"

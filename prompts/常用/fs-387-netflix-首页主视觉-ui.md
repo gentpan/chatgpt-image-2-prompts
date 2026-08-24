@@ -15,6 +15,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case387.jpg
 source_label: @aimikoda
+organizer: gentpan
 ---
 
 Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.

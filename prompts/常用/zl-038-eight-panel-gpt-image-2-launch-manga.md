@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/venturetwins/status/2046620134933250409
 source_license: MIT
+organizer: gentpan
 ---
 
 Create an eight-panel manga about GPT-Image-2 launching today

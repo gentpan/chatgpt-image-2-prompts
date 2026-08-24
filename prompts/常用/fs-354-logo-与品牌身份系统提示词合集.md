@@ -15,6 +15,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case354.jpg
 source_label: @wanerfu
+organizer: gentpan
 ---
 
 1. Logo概念生成提示词

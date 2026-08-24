@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/akokoi1/status/2045693939584516441
 source_license: MIT
+organizer: gentpan
 ---
 
 Generate a series of gongbi-style bookmark designs

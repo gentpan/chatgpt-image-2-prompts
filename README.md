@@ -1,5 +1,7 @@
 # GPT Image 2 提示词收藏库
 
+**管理者 / 整理者**: [gentpan](https://github.com/gentpan)
+
 Yep 的 GPT Image 2 提示词个人收藏，为后续项目复用而整理，**包含完整提示词文本**，严格标注来源和原始许可。
 
 > **其他模型提示词**：  

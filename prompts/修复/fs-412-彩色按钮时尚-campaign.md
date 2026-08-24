@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case412.jpg
 source_label: @Mind_Boticni
+organizer: gentpan
 ---
 
 Use reference image as style guide.

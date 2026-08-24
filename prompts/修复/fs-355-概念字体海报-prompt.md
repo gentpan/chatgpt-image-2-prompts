@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case355.jpg
 source_label: @dotey
+organizer: gentpan
 ---
 
 Create ONE finished premium conceptual typography poster for the exact title:

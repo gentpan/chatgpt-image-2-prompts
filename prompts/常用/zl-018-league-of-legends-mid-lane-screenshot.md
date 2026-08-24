@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/underwoodxie96/status/2046529342415790275
 source_license: MIT
+organizer: gentpan
 ---
 
 Help me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends

@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/MrLarus/status/2046627021674168640
 source_license: MIT
+organizer: gentpan
 ---
 
 Generate a Chinese fitness infographic for [topic].

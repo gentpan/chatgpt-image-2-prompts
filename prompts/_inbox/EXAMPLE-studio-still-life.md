@@ -13,6 +13,7 @@ mode: t2i
 source_repo: gentpan/chatgpt-image-2-prompts
 source_url: https://github.com/gentpan/chatgpt-image-2-prompts
 source_license: MIT
+organizer: gentpan
 ---
 
 A minimalist studio still life photograph featuring a single ceramic vase on a white seamless backdrop. Soft diffused lighting from the top-left creates subtle shadows. The vase has a matte finish with organic curves. Shot with a medium format camera, shallow depth of field, clean composition with generous negative space. Professional product photography style, editorial quality.
