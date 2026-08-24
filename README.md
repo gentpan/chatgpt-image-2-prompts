@@ -1,6 +1,10 @@
-# AI 图像生成提示词收藏库
+# GPT Image 2 提示词收藏库
 
-Yep 的 AI 图像生成提示词个人收藏，涵盖 **GPT Image 2**、**Nano Banana** 和 **Grok Imagine** 三个模型。为后续项目复用而整理，**包含完整提示词文本**，严格标注来源和原始许可。
+Yep 的 GPT Image 2 提示词个人收藏，为后续项目复用而整理，**包含完整提示词文本**，严格标注来源和原始许可。
+
+> **其他模型提示词**：  
+> - Nano Banana → [gentpan/nano-banana-prompts](https://github.com/gentpan/nano-banana-prompts)  
+> - Grok Imagine → [gentpan/grok-imagine-prompts](https://github.com/gentpan/grok-imagine-prompts)
 
 ## 仓库结构
 
@@ -42,37 +46,6 @@ Yep 的 AI 图像生成提示词个人收藏，涵盖 **GPT Image 2**、**Nano B
 
 ---
 
-## Nano Banana 语料
-
-位于 `data/nano-banana/`，收录三个来源的 Nano Banana Pro 提示词：
-
-| 来源 | 数量 | 许可 | 说明 |
-|------|------|------|------|
-| ImgEdify/awesome-nano-banana-pro-prompts | 8990 | MIT | 完整语料，JSONL + 按分类拆分的 MD |
-| ZeroLu/awesome-nanobanana-pro | 70 | MIT | 精选案例，完整提示词 |
-| YouMind-OpenLab/awesome-nano-banana-pro-prompts | 129 | CC BY 4.0 | GitHub 预览切片（完整集合 10000+ 条在 CMS） |
-
-**附加来源**（位于 `data/nano-banana/`）：
-- **Banana-Prompts/awesome-nano-banana-prompts** (MIT) — 276 条（来自 bananaprompts.fun）
-
-**Nano Banana 总计**: 9,465 条
-
----
-
-## Grok Imagine 语料
-
-位于 `data/grok/`，收录三个来源的 Grok Imagine 提示词（仅 SFW）：
-
-| 来源 | 数量 | 许可 | 说明 |
-|------|------|------|------|
-| that-cod/awesome-grok-imagine-prompts | 199 | MIT | 已排除 nsfw.md |
-| seaimagine/awesome-grok-imagine-1-5-prompts | 40 | MIT | 原创提示词 |
-| YouMind-OpenLab/awesome-grok-imagine-prompts | 3 | CC BY 4.0 | GitHub 预览切片（完整集合 2573+ 条在 CMS） |
-
-**合计**: 242 条
-
----
-
 ## 数据来源
 
 本仓库从以下公开来源收集并整理提示词：
@@ -95,15 +68,14 @@ Yep 的 AI 图像生成提示词个人收藏，涵盖 **GPT Image 2**、**Nano B
 - **gptimage2prompts/gpt-image-2-prompts** (MIT) — 800 条（时尚专题中文）
 - **BigPengSays/awesome-gpt-image-2-prompts** (MIT) — 536 条（A 级质量）
 
-**GPT Image 2 总计**: 26,443 条
+**完整语料总计**: 26,443 条（已去重）
 
 **电商专题**（位于 `data/ecommerce/` 和 `prompts/电商/`）：
 - **YouMind-OpenLab/gpt-image-2-prompts-search（电商筛选）** (CC BY 4.0) — 1,508 条
   - 包含主图、详情页、包装、模特上身等 6 个子分类
   - 精选 30 个代表性案例存为独立 Markdown 文件
 
-### Nano Banana & Grok Imagine
-见上方表格。完整来源信息参见 [sources.md](sources.md)。
+完整来源信息参见 [sources.md](sources.md)。
 
 ## 如何使用
 
