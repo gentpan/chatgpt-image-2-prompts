@@ -1,0 +1,30 @@
+---
+id: youmind-ecom-30660
+title: Vintage Brass Hanging Lantern
+model: gpt-image-2
+category: 电商
+bucket: 静物白底
+description: A centered hand-painted product illustration of an antique brass glass lantern for asset, icon, or concept art use.
+source_repo: YouMind-OpenLab/gpt-image-2-prompts-search
+source_url: https://github.com/YouMind-OpenLab/gpt-image-2-prompts-search
+source_license: CC BY 4.0
+needs_reference: true
+---
+
+# Vintage Brass Hanging Lantern
+
+**说明**: A centered hand-painted product illustration of an antique brass glass lantern for asset, icon, or concept art use.
+
+## 提示词
+
+```
+Create a clean isolated product-style illustration of a vintage hanging lantern centered on a plain {argument name="background color" default="white"} background. The lantern is a hexagonal metal frame made of aged {argument name="metal finish" default="antique brass / dark bronze"}, shown in a slight three-quarter front view with the front glass door facing forward and the right side visible. It has transparent glass panels with subtle pale reflections, a rectangular front door with thin metal borders, small hinges on one side, and a curved latch handle on the other. The base is a raised hexagonal plinth with layered bevels. The upper section has a sloped faceted roof, a short cylindrical vent band with exactly four visible round ventilation holes, a domed cap, a small ball finial, and one large circular hanging ring at the top. Use softly shaded hand-painted digital illustration style, fine dark outlines, muted warm highlights, realistic but slightly stylized proportions, no flame or candle visible inside, no text, no watermark, and ample empty space around the object.
+```
+
+---
+
+**分类**: 静物白底  
+**模型**: gpt-image-2  
+**来源**: [YouMind-OpenLab/gpt-image-2-prompts-search](https://github.com/YouMind-OpenLab/gpt-image-2-prompts-search)  
+**许可**: CC BY 4.0  
+**需要参考图**: 是  

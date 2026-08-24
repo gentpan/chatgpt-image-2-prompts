@@ -34,11 +34,11 @@ Yep 的 AI 图像生成提示词个人收藏，涵盖 **GPT Image 2**、**Nano B
 | `prompts/产品/` | 36 | 产品摄影 |
 | `prompts/修复/` | 100 | 图像修复/编辑/风格转换 |
 | `prompts/海报/` | 82 | 海报设计、排版 |
-| `prompts/电商/` | 0 | 电商视觉（待补充） |
+| `prompts/电商/` | 1508 | 电商视觉：主图/详情页/包装/模特上身等（[完整说明](prompts/电商/README.md)） |
 
 待分类的提示词暂存在 `prompts/_inbox/`。
 
-**总计**: 630+ 个精选提示词
+**总计**: 2,138 个精选提示词（含 1,508 个电商提示词）
 
 ---
 
@@ -85,6 +85,19 @@ Yep 的 AI 图像生成提示词个人收藏，涵盖 **GPT Image 2**、**Nano B
 - **YouMind-OpenLab/gpt-image-2-prompts-search** (CC BY 4.0) — 15,949 条（JSONL 格式，35.16 MB）
   - 11 个分类：Social Media Post, Product Marketing, Profile/Avatar, Comic/Storyboard 等
   - 来源于 references/*.json（已删除媒体字段）
+
+**附加高价值来源**（位于 `data/gpt-image-2/`，已去重）：
+- **Toolcentral-ai/awesome-gpt-image-2-prompts** (MIT) — 7,483 条（24.44 MB）
+- **moosl/awsome-gpt-image-2-prompts** (MIT) — 1,675 条（X/Twitter 收集）
+- **gptimage2prompts/gpt-image-2-prompts** (MIT) — 800 条（时尚专题中文）
+- **BigPengSays/awesome-gpt-image-2-prompts** (MIT) — 536 条（A 级质量）
+
+**GPT Image 2 总计**: 26,443 条
+
+**电商专题**（位于 `data/ecommerce/` 和 `prompts/电商/`）：
+- **YouMind-OpenLab/gpt-image-2-prompts-search（电商筛选）** (CC BY 4.0) — 1,508 条
+  - 包含主图、详情页、包装、模特上身等 6 个子分类
+  - 精选 30 个代表性案例存为独立 Markdown 文件
 
 ### Nano Banana & Grok Imagine
 见上方表格。完整来源信息参见 [sources.md](sources.md)。

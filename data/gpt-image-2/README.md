@@ -112,23 +112,80 @@
 ### 按分类查询
 
 ```bash
-# 查询 Social Media Post 分类的所有提示词
+# 查询 Social Media Post 分类的所有提示词（YouMind）
 grep '"slug": "social-media-post"' youmind-prompts.jsonl | wc -l
+
+# 查询 Portrait & Character 分类（Toolcentral）
+grep '"category": "Portrait & Character"' toolcentral-prompts.jsonl | wc -l
 ```
 
 ### 按 ID 查询
 
 ```bash
-# 查询 ID 为 32359 的提示词
+# 查询 ID 为 32359 的提示词（YouMind）
 grep '"id": 32359' youmind-prompts.jsonl | python3 -m json.tool
+
+# 查询 moosl 提示词
+grep '"id": "moosl-0001"' moosl-prompts.jsonl | python3 -m json.tool
 ```
 
 ### 提取特定分类
 
 ```bash
-# 提取所有 Product Marketing 提示词到单独文件
+# 提取所有 Product Marketing 提示词（YouMind）
 grep '"slug": "product-marketing"' youmind-prompts.jsonl > product-marketing-only.jsonl
+
+# 提取 Portrait 类别（多个来源合并）
+cat youmind-prompts.jsonl toolcentral-prompts.jsonl moosl-prompts.jsonl | \
+  grep -i '"category".*portrait' > all-portraits.jsonl
 ```
+
+---
+
+## 附加数据源（已去重）
+
+除了 YouMind 完整语料，本目录还包含以下高价值数据源：
+
+### toolcentral-prompts.jsonl (24.44 MB)
+
+- **来源**: [Toolcentral-ai/awesome-gpt-image-2-prompts](https://github.com/Toolcentral-ai/awesome-gpt-image-2-prompts)
+- **数量**: 7,483 条（去重后，原始 7,902 条）
+- **许可**: MIT
+- **分类**: Portrait & Character, Graphic & Poster, Anime & Game, Product & Commercial 等
+
+### moosl-prompts.jsonl (2.85 MB)
+
+- **来源**: [moosl/awsome-gpt-image-2-prompts](https://github.com/moosl/awsome-gpt-image-2-prompts)
+- **数量**: 1,675 条（去重后，原始 1,791 条）
+- **许可**: MIT
+- **特点**: X/Twitter 收集，包含作者归属
+
+### fashion-gptimage2prompts.jsonl (1.99 MB)
+
+- **来源**: [gptimage2prompts/gpt-image-2-prompts](https://github.com/gptimage2prompts/gpt-image-2-prompts)
+- **数量**: 800 条（去重后，原始 874 条）
+- **许可**: MIT
+- **特点**: 时尚专题中文提示词（Men's/Women's/Kids Fashion）
+
+### bigpeng-prompts.jsonl (0.77 MB)
+
+- **来源**: [BigPengSays/awesome-gpt-image-2-prompts](https://github.com/BigPengSays/awesome-gpt-image-2-prompts)
+- **数量**: 536 条（去重后，原始 550 条）
+- **许可**: MIT
+- **特点**: 精选 A 级质量提示词，带归属
+
+---
+
+## 总计
+
+| 数据源 | 唯一提示词 | 文件大小 |
+|--------|-----------|----------|
+| **YouMind** (完整语料) | 15,949 | 35.16 MB |
+| **Toolcentral** | 7,483 | 24.44 MB |
+| **moosl** | 1,675 | 2.85 MB |
+| **fashion** | 800 | 1.99 MB |
+| **BigPeng** | 536 | 0.77 MB |
+| **总计** | **26,443** | **~65 MB** |
 
 ---
 
