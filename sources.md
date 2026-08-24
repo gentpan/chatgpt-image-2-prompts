@@ -134,6 +134,34 @@
 
 ---
 
+## 7. stimQQ/gpt-image-2-prompts
+
+- **仓库**: [stimQQ/gpt-image-2-prompts](https://github.com/stimQQ/gpt-image-2-prompts)
+- **描述**: 955+ 双语（中英文）GPT Image 2 提示词，涵盖电商主图、产品营销、社交媒体、海报、信息图等场景
+- **许可**: CC BY 4.0
+- **在本仓库的角色**: 已导入 955 个提示词至 `data/incoming/collected-20260824.jsonl`
+
+---
+
+## 8. peterRooo/awesome-gpt-image-2-prompts
+
+- **仓库**: [peterRooo/awesome-gpt-image-2-prompts](https://github.com/peterRooo/awesome-gpt-image-2-prompts)
+- **描述**: 550 个专业 GPT Image 2 提示词库，附预览图和结构化导出
+- **许可**: Unknown
+- **在本仓库的角色**: 已导入 550 个提示词至 `data/incoming/collected-20260824.jsonl`
+- **备注**: 上游网站 [GptImageLab](https://gptimagelab.com) 持续更新，总库存约 3,738 个提示词
+
+---
+
+## 9. StarRoadlu/gpt-image-2-gallery
+
+- **仓库**: [StarRoadlu/gpt-image-2-gallery](https://github.com/StarRoadlu/gpt-image-2-gallery)
+- **描述**: GPT Image 2 画廊数据集
+- **许可**: Unknown
+- **在本仓库的角色**: 已导入 100 个提示词至 `data/incoming/collected-20260824.jsonl`
+
+---
+
 ## 使用建议
 
 1. **浏览目录**: 按槽位浏览 `prompts/<分类>/` 查找所需提示词
@@ -141,5 +169,6 @@
    - freestylefly 案例：`data/freestylefly-cases-by-category.md`
    - 电商提示词：`data/ecommerce/gpt-image-2.jsonl`（1,508 条）
    - GPT Image 2 完整语料：`data/gpt-image-2/` 目录（26,443 条）
+   - 最新收集数据：`data/incoming/collected-20260824.jsonl`（1,605 条）
 3. **批量检索**: 使用 `grep` 命令在 JSONL 文件中搜索关键词
 4. **遵守许可**: 使用前务必查阅各文件的 `source_license` 字段
