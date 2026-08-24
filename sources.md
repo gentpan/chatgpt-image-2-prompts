@@ -134,7 +134,7 @@
 
 ---
 
-## 7. stimQQ/gpt-image-2-prompts
+### 10. stimQQ/gpt-image-2-prompts
 
 - **仓库**: [stimQQ/gpt-image-2-prompts](https://github.com/stimQQ/gpt-image-2-prompts)
 - **描述**: 955+ 双语（中英文）GPT Image 2 提示词，涵盖电商主图、产品营销、社交媒体、海报、信息图等场景
@@ -143,7 +143,7 @@
 
 ---
 
-## 8. peterRooo/awesome-gpt-image-2-prompts
+### 11. peterRooo/awesome-gpt-image-2-prompts
 
 - **仓库**: [peterRooo/awesome-gpt-image-2-prompts](https://github.com/peterRooo/awesome-gpt-image-2-prompts)
 - **描述**: 550 个专业 GPT Image 2 提示词库，附预览图和结构化导出
@@ -153,7 +153,7 @@
 
 ---
 
-## 9. StarRoadlu/gpt-image-2-gallery
+### 12. StarRoadlu/gpt-image-2-gallery
 
 - **仓库**: [StarRoadlu/gpt-image-2-gallery](https://github.com/StarRoadlu/gpt-image-2-gallery)
 - **描述**: GPT Image 2 画廊数据集
