@@ -10,8 +10,8 @@ tags:
   - 产品摄影
 model: gpt-image-2
 mode: t2i
-source_repo: gentpan/gpt-image-2
-source_url: https://github.com/gentpan/gpt-image-2
+source_repo: gentpan/chatgpt-image-2-prompts
+source_url: https://github.com/gentpan/chatgpt-image-2-prompts
 source_license: MIT
 ---
 

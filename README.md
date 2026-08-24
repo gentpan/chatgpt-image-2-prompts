@@ -1,6 +1,10 @@
 # GPT Image 2 提示词收藏库
 
-Yep 的 ChatGPT GPT Image 2 提示词个人收藏，为后续项目复用而整理。**包含完整提示词文本**，严格标注来源和原始许可。
+Yep 的 GPT Image 2 提示词个人收藏，为后续项目复用而整理，**包含完整提示词文本**，严格标注来源和原始许可。
+
+> **其他模型提示词**：  
+> - Nano Banana → [gentpan/nano-banana-prompts](https://github.com/gentpan/nano-banana-prompts)  
+> - Grok Imagine → [gentpan/grok-imagine-prompts](https://github.com/gentpan/grok-imagine-prompts)
 
 ## 仓库结构
 
@@ -40,16 +44,38 @@ Yep 的 ChatGPT GPT Image 2 提示词个人收藏，为后续项目复用而整�
 
 **总计**: 2,138 个精选提示词（含 1,508 个电商提示词）
 
+---
+
 ## 数据来源
 
 本仓库从以下公开来源收集并整理提示词：
 
+### GPT Image 2
+
+**精选提示词**（位于 `prompts/` 目录）：
 - **freestylefly/awesome-gpt-image-2** (MIT) — 529 个案例
 - **ZeroLu/awesome-gpt-image** (MIT) — 72 个精选提示词
 - **Anil-matcha/Awesome-GPT-Image-2-API-Prompts** (CC BY 4.0) — 28 个 API 导向提示词（已去重）
-- **YouMind-OpenLab/awesome-gpt-image-2** (CC BY 4.0) — 1 个样本（完整集合约 15985 个，见 [youmind.com](https://youmind.com)）
 
-详细来源信息参见 [sources.md](sources.md)。
+**完整语料**（位于 `data/gpt-image-2/`）：
+- **YouMind-OpenLab/gpt-image-2-prompts-search** (CC BY 4.0) — 15,949 条（JSONL 格式，35.16 MB）
+  - 11 个分类：Social Media Post, Product Marketing, Profile/Avatar, Comic/Storyboard 等
+  - 来源于 references/*.json（已删除媒体字段）
+
+**附加高价值来源**（位于 `data/gpt-image-2/`，已去重）：
+- **Toolcentral-ai/awesome-gpt-image-2-prompts** (MIT) — 7,483 条（24.44 MB）
+- **moosl/awsome-gpt-image-2-prompts** (MIT) — 1,675 条（X/Twitter 收集）
+- **gptimage2prompts/gpt-image-2-prompts** (MIT) — 800 条（时尚专题中文）
+- **BigPengSays/awesome-gpt-image-2-prompts** (MIT) — 536 条（A 级质量）
+
+**完整语料总计**: 26,443 条（已去重）
+
+**电商专题**（位于 `data/ecommerce/` 和 `prompts/电商/`）：
+- **YouMind-OpenLab/gpt-image-2-prompts-search（电商筛选）** (CC BY 4.0) — 1,508 条
+  - 包含主图、详情页、包装、模特上身等 6 个子分类
+  - 精选 30 个代表性案例存为独立 Markdown 文件
+
+完整来源信息参见 [sources.md](sources.md)。
 
 ## 如何使用
 
