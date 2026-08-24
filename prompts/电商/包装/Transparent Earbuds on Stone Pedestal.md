@@ -1,0 +1,30 @@
+---
+id: youmind-ecom-31560
+title: Transparent Earbuds on Stone Pedestal
+model: gpt-image-2
+category: 电商
+bucket: 包装
+description: A cinematic minimalist product photo prompt for showcasing transparent wireless earbuds with premium industrial design against rugged stone.
+source_repo: YouMind-OpenLab/gpt-image-2-prompts-search
+source_url: https://github.com/YouMind-OpenLab/gpt-image-2-prompts-search
+source_license: CC BY 4.0
+needs_reference: true
+---
+
+# Transparent Earbuds on Stone Pedestal
+
+**说明**: A cinematic minimalist product photo prompt for showcasing transparent wireless earbuds with premium industrial design against rugged stone.
+
+## 提示词
+
+```
+Create a high-end minimalist product photograph of {argument name="product" default="Nothing transparent wireless earbuds in a clear square charging case"} balanced diagonally on top of a rough stacked stone pedestal. The scene is vertical 3:4, centered composition, with the transparent rounded-square case floating or lightly resting at a 35-degree tilt above the rock. Inside the case are exactly 2 visible earbuds, one near the upper right and one near the lower left, with glossy black and metallic internal components, clear stems, and white translucent ear tips; the case has visible hinges, seams, rounded corners, and a small subtle wordmark reading “NOTHING” on the inner surface. The pedestal consists of exactly 2 large rugged stone blocks: a taller light-gray upper rock with sharp texture and a darker wider lower rock beneath it, both dramatically lit from the upper left so the right side falls into deep shadow. Use {argument name="background color" default="soft smoky gray"} studio backdrop with a gentle vignette, grainy atmospheric haze, and no visible horizon line. Lighting should be cinematic and directional, emphasizing contrast between the sleek transparent electronics and the primitive stone texture, with crisp highlights on plastic edges, soft shadows, realistic reflections, shallow depth of field, and premium industrial design aesthetics inspired by Nothing. No extra objects, no hands, no packaging, no large typography, no watermark.
+```
+
+---
+
+**分类**: 包装  
+**模型**: gpt-image-2  
+**来源**: [YouMind-OpenLab/gpt-image-2-prompts-search](https://github.com/YouMind-OpenLab/gpt-image-2-prompts-search)  
+**许可**: CC BY 4.0  
+**需要参考图**: 是  
