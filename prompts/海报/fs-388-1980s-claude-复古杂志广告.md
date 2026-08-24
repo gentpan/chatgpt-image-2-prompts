@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case388.jpg
 source_label: @Shinning1010
+organizer: gentpan
 ---
 
 A fictional 1980s magazine advertisement poster introducing “Claude” as a revolutionary home AI assistant, retro commercial print ad style, bold headline at the top reading “Introducing Claude!”, large chrome metallic 3D typography with pink and blue reflections, yellow italic tagline underneath: “The AI assistant that talks back.”

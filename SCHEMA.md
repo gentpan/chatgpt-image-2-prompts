@@ -37,7 +37,7 @@ model: gpt-image-2
 source_repo: owner/repo-name
 source_url: https://github.com/owner/repo-name
 source_license: MIT / CC BY 4.0 / etc.
-organizer: Yep (gentpan)
+organizer: gentpan
 ---
 
 ## 中文
@@ -63,7 +63,7 @@ English prompt content
 | `source_repo` | 来源仓库（GitHub 格式：owner/repo） | 可选 |
 | `source_url` | 来源 URL | 可选 |
 | `source_license` | 来源许可证 | 可选 |
-| `organizer` | 整理人员 | ✓ |
+| `organizer` | 整理人员（gentpan） | ✓ |
 
 ### 内容规则
 
@@ -82,7 +82,7 @@ English prompt content
 `data/` 目录下的 `.jsonl` 文件用于存储批量提示词语料，每行一个 JSON 对象：
 
 ```jsonl
-{"id":"电商-0001","category":"电商","model":"gpt-image-2","prompt_zh":"中文提示词","prompt_en":"English prompt","source_repo":"owner/repo","source_url":"https://...","source_license":"MIT","organizer":"Yep (gentpan)"}
+{"id":"电商-0001","category":"电商","model":"gpt-image-2","prompt_zh":"中文提示词","prompt_en":"English prompt","source_repo":"owner/repo","source_url":"https://...","source_license":"MIT","organizer":"gentpan"}
 ```
 
 ### 使用场景
@@ -104,7 +104,7 @@ model: gpt-image-2
 source_repo: YouMind-OpenLab/gpt-image-2-prompts-search
 source_url: https://github.com/YouMind-OpenLab/gpt-image-2-prompts-search
 source_license: CC BY 4.0
-organizer: Yep (gentpan)
+organizer: gentpan
 ---
 
 ## 中文
@@ -132,5 +132,5 @@ Create a realistic close-up food photograph of Japanese tonkatsu...
 
 ---
 
-整理：Yep（gentpan）  
+整理：gentpan  
 仓库：https://github.com/gentpan/chatgpt-image-2-prompts

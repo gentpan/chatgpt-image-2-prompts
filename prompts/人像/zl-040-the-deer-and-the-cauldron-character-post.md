@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/caiziboshi/status/2047091751731519744
 source_license: MIT
+organizer: gentpan
 ---
 
 生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质

@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://opennana.com/awesome-prompt-gallery/official-character-reference-sheet
 source_license: MIT
+organizer: gentpan
 ---
 
 Based on this character and background, please create a character reference sheet similar to official setting materials.

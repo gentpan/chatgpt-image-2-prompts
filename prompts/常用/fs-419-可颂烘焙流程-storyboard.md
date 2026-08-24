@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case419.jpg
 source_label: @TechieBySA
+organizer: gentpan
 ---
 
 Create a crisp, clean infographic storyboard poster for THE CROISSANT BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — warm golden yellows, rich buttery creams, flaky browns, soft pastry whites, warm French bakery morning light.

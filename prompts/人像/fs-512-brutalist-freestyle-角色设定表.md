@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case512.jpg
 source_label: @ShamsAmin56
+organizer: gentpan
 ---
 
 Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical streetwear construction, gloves, boots, utility belt, and monochrome industrial aesthetic.

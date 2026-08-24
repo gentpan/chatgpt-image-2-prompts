@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case407.jpg
 source_label: @YaZoraiz
+organizer: gentpan
 ---
 
 Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page.

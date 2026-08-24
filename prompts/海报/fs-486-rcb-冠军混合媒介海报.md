@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case486.jpg
 source_label: @AIwithkhan
+organizer: gentpan
 ---
 
 Ultra-detailed mixed-media sports poster featuring the SAME woman from the reference image, wearing a Royal Challengers Bengaluru (RCB) jersey, holding the IPL trophy beside her. Dynamic fusion of realistic portrait photography, sketch art, watercolor splashes, paint strokes, ink scribbles, and digital painting effects. Explosive red, black, gold, and white color palette. Dramatic championship atmosphere with confetti, fireworks, cheering stadium crowd, RCB flags waving in the background, paint splatter textures, hand-drawn line art accents, and energetic brushwork.

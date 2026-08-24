@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://github.com/ZeroLu/awesome-gpt-image
 source_license: MIT
+organizer: gentpan
 ---
 
 Design a 3:4 vertical poster for a new Chinese trendy tea launch. Use a New Chinese visual style that feels light-luxury and restrained. The palette should be dark green, off-white, and gold, with rice-paper texture, elegant negative space, landscape accents, and modern layout design.

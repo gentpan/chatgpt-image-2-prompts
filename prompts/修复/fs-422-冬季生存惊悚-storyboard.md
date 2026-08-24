@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case422.jpg
 source_label: @zulkarnaimx
+organizer: gentpan
 ---
 
 Cinematic Survival Thriller Storyboard Prompt

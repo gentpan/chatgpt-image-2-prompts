@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://opennana.com/awesome-prompt-gallery/museum-level-chinese-disassembly-infographic
 source_license: MIT
+organizer: gentpan
 ---
 
 Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject].

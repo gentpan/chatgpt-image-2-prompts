@@ -17,6 +17,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case473.jpg
 source_label: @KimAkiyama81
+organizer: gentpan
 ---
 
 **ROGUE VIPER — VIDEO GAME CONCEPT ART SHEET PROMPT**

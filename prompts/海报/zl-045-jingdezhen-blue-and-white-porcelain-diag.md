@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://opennana.com/awesome-prompt-gallery/jingdezhen-blue-white-porcelain-diagram
 source_license: MIT
+organizer: gentpan
 ---
 
 Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.

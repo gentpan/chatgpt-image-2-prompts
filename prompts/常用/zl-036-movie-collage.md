@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/chetaslua/status/2044462992176386532
 source_license: MIT
+organizer: gentpan
 ---
 
 entire superman movie image collage one shot in one output

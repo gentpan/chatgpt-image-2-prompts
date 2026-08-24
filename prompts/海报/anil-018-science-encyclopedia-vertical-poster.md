@@ -9,6 +9,7 @@ mode: t2i
 source_repo: Anil-matcha/Awesome-GPT-Image-2-API-Prompts
 source_url: https://x.com/pfanis
 source_license: CC-BY-4.0
+organizer: gentpan
 ---
 
 Generate a high-quality vertical science popularization encyclopedia image based on [Theme].

@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/sunyunran/status/2047241649957503308
 source_license: MIT
+organizer: gentpan
 ---
 
 90s + point-and-shoot camera quality

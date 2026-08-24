@@ -9,6 +9,7 @@ mode: t2i
 source_repo: Anil-matcha/Awesome-GPT-Image-2-API-Prompts
 source_url: https://x.com/Thereallo1026
 source_license: CC-BY-4.0
+organizer: gentpan
 ---
 
 Show me the attached image as a snapshot from an actual anime

@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/flowersslop/status/2040261168460108213
 source_license: MIT
+organizer: gentpan
 ---
 
 Screenshot of a YouTube video showing someone who time-traveled to the Middle Ages

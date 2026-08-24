@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://github.com/ZeroLu/awesome-gpt-image
 source_license: MIT
+organizer: gentpan
 ---
 
 Generate a Black Myth: Wukong game scene where Wukong is knocked away by Erlang Shen

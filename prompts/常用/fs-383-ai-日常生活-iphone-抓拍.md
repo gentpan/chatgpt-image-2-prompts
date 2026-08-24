@@ -13,6 +13,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case383.jpg
 source_label: @Ciri_ai
+organizer: gentpan
 ---
 
 I want to see what you really look like.

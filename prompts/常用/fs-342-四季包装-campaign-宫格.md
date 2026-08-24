@@ -16,6 +16,7 @@ source_url: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/g
 source_license: MIT
 image: /images/case342.jpg
 source_label: @SRKDAN
+organizer: gentpan
 ---
 
 PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design

@@ -25,6 +25,7 @@ mode: t2i  # t2i（文生图）| i2i（图生图）| edit（编辑）
 source_repo: 来源仓库（如 freestylefly/awesome-gpt-image-2）
 source_url: 原始链接（完整 URL）
 source_license: 原始许可协议（如 MIT、CC BY 4.0）
+organizer: gentpan
 ---
 
 提示词正文内容。

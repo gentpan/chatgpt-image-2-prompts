@@ -9,6 +9,7 @@ mode: t2i
 source_repo: ZeroLu/awesome-gpt-image
 source_url: https://x.com/marmaduke091/status/2040820686751432990
 source_license: MIT
+organizer: gentpan
 ---
 
 In the game Zelda totk link is in a e531 series train made by him
