@@ -52,7 +52,10 @@ Yep 的 AI 图像生成提示词个人收藏，涵盖 **GPT Image 2**、**Nano B
 | ZeroLu/awesome-nanobanana-pro | 70 | MIT | 精选案例，完整提示词 |
 | YouMind-OpenLab/awesome-nano-banana-pro-prompts | 129 | CC BY 4.0 | GitHub 预览切片（完整集合 10000+ 条在 CMS） |
 
-**合计**: 9189 条
+**附加来源**（位于 `data/nano-banana/`）：
+- **Banana-Prompts/awesome-nano-banana-prompts** (MIT) — 276 条（来自 bananaprompts.fun）
+
+**Nano Banana 总计**: 9,465 条
 
 ---
 
