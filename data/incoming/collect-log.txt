@@ -1,0 +1,20 @@
+开始收集提示词...
+
+处理 stimQQ...
+下载: https://raw.githubusercontent.com/stimQQ/gpt-image-2-prompts/master/prompts.json
+/workspace/scripts/collect-prompts.py:109: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  'collected_at': datetime.utcnow().isoformat() + 'Z'
+  收集到 955 条记录
+
+处理 gptimage2prompts...
+下载: https://raw.githubusercontent.com/gptimage2prompts/gpt-image-2-prompts/main/data/prompts.json
+Traceback (most recent call last):
+  File "/workspace/scripts/collect-prompts.py", line 284, in <module>
+    main()
+  File "/workspace/scripts/collect-prompts.py", line 264, in main
+    records = processor()
+              ^^^^^^^^^^^
+  File "/workspace/scripts/collect-prompts.py", line 124, in process_gptimage2prompts
+    prompt_text = item.get('prompt', '') or item.get('prompt_text', '')
+                  ^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
