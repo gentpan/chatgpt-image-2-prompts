@@ -2,7 +2,7 @@
 
 **管理者 / 整理者**: [gentpan](https://github.com/gentpan)
 
-gentpan 的 GPT Image 2 提示词个人收藏，为后续项目复用而整理，**包含完整提示词文本**，严格标注来源和原始许可。
+GPT Image 2 提示词收藏集，提供**完整提示词文本**、分类索引和来源记录，便于浏览、检索与复用。使用时请遵循每条提示词的原始许可。
 
 > **其他模型提示词**：  
 > - Nano Banana → [gentpan/nano-banana-prompts](https://github.com/gentpan/nano-banana-prompts)  
